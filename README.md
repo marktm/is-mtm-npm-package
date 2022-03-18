@@ -1,1 +1,1 @@
-# is-mtm-npm-package
+# is-mtm-package
